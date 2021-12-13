@@ -1,6 +1,6 @@
 ### Hello 👋
 
-I am a junior webdeveloper currently looking for an internship _(or similar)_.
+I am a junior webdeveloper.
 
 Interested in both front/back-end ☯️
 
