@@ -7,7 +7,8 @@ Enthusiastic about the open-source community, serverless world, devops and javas
 
 ---
 
-### 👉 Currently working at BubblyDoo:
+### 👉 Currently working at [BubblyDoo](https://github.com/bubblydoo)
+:
 
 Using techlogies such as: 
 ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white)
