@@ -1,20 +1,19 @@
 ### Hello 👋
 
-I am a junior webdeveloper.
-
+I am a junior full-stack developer.
 Interested in both front/back-end ☯️
-
-Feel free to have a look at my repositories, especially the pinned ones 📌 
-
-and take a look at my **[portfolio](https://izidor-maklary.herokuapp.com/)**
 
 ---
 
-### 👉 Currently:
-I have been working on some fullstack projects using these techniques:
+### 👉 Currently working at BubblyDoo:
 
-![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
+Using techlogies such as: 
+![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white)
+![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Apollo-GraphQL](https://img.shields.io/badge/-ApolloGraphQL-311C87?style=for-the-badge&logo=apollo-graphql)
+![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
 
+### OpenSource:
 
+* [graphql-worker-subscriptions](https://github.com/bubblydoo/graphql-worker-subscriptions)
