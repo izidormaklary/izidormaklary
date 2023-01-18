@@ -3,7 +3,7 @@
 I am a junior full-stack developer.
 Interested in both front/back-end ☯️.
 
-Enthusiastic about the serverless world, devops and javascript. 🌝🌚
+Enthusiastic about the open-source community, serverless world, devops and javascript. 🌝🌚
 
 ---
 
