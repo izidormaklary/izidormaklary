@@ -8,7 +8,6 @@ Enthusiastic about the open-source community, serverless world, devops and javas
 ---
 
 ### 👉 Currently working at [BubblyDoo](https://github.com/bubblydoo)
-:
 
 Using techlogies such as: 
 ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white)
@@ -19,6 +18,6 @@ Using techlogies such as:
 ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
 
 
-### OpenSource:
+### OpenSource
 
-* [graphql-worker-subscriptions](https://github.com/bubblydoo/graphql-worker-subscriptions)
+[graphql-worker-subscriptions](https://github.com/bubblydoo/graphql-worker-subscriptions)
