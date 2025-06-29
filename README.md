@@ -1,6 +1,6 @@
 ### Hello 👋
 
-I am a junior full-stack developer.
+I am a software developer.
 Interested in both front/back-end ☯️.
 
 Enthusiastic about the open-source community, serverless world, devops and javascript. 🌝🌚
